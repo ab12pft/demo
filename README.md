@@ -1,2 +1,2 @@
 # demo
-This is my first gir repository
+This is my first git repository
